@@ -1,0 +1,12 @@
+{
+  "name": "bo_texcno",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.4.5",
+    "pino": "^8.20.0"
+  }
+}
